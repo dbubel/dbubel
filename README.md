@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Dbubel 👋
 
-<!--
-**dbubel/dbubel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been coding since I was a kid and have been doing it professionally for over 10 years. I'm not satisfied with basic knowledge of how things work, I want to look at the electrons moving. 
 
-Here are some ideas to get you started:
+## Technical Skills 🛠️
+- **Languages**: Go, Zig and Python
+- **Tools &  Platforoms**: GitHub, Docker, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dbubel&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dbubel&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dbubel&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dbubel&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dbubel&theme=dracula&utcOffset=8)
+
+
+## Connect with Me 📬
+🔗 [LinkedIn](https://www.linkedin.com/in/dean-bubel/)
