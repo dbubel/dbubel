@@ -1,10 +1,8 @@
 Hi, I'm Dbubel 👋
 
-I've been coding since I was a kid and have been doing it professionally for over 10 years. I'm not satisfied with basic knowledge of how things work, I want to look at the electrons moving. 
-
 ## Technical Skills 🛠️
 - **Languages**: Go, Zig and Python
-- **Tools &  Platforoms**: GitHub, Docker, AWS
+- **Tools &  Platforms**: GitHub, Docker, AWS, 
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dbubel&theme=dracula)
